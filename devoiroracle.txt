@@ -1,0 +1,3 @@
+liste mpiasa be karama par departement
+liste departement manana mpiasa be indrindra 
+(table dual)
